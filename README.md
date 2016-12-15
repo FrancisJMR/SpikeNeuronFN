@@ -1,4 +1,4 @@
-Spikeneuron Fitzhug-Nagumo Model
+#Spikeneuron Fitzhug-Nagumo Model
 version: 0.1
 by Francis Jeanson 2012
 
